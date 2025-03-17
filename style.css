@@ -17,7 +17,6 @@ body {
 	justify-content: space-around;
 	width: 100%;
 	background-color: #6b635b;
-	color: black;
 	text-align: center;
 	font-size: 1em;
 }
@@ -37,7 +36,6 @@ body {
 	width: 300px;
 }
 .login-container h2 {
-	color: white;
 	margin-bottom: 20px;
 }
 .login-container input {
