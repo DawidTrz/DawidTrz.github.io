@@ -7,10 +7,10 @@
 
 body {
 	background-color: #e6ded7;
+	color: black;
 	height: 100vh;
 	width: 100vw;
 }
-
 .header {
 	display: flex;
 	align-items: center;
@@ -25,6 +25,11 @@ body {
 }
 .header h1 {
 	padding: 2% 0;
+}
+.header a {
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
 }
 
 .login-container {
